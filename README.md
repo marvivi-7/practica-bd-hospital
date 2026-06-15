@@ -2,7 +2,7 @@
 
 ## Integrantes:
 * Mariel Torres Hernández
-* [Nombre de Integrante 2]
+* Aguilar Lima Samuel Alejandro
 
 ---
 
